@@ -1,5 +1,7 @@
 This package streamlines the task of formatting a number or string to your preferred style, allowing for customization according to your needs. It offers a convenient solution for achieving the desired format, including the flexibility to adjust the input size to meet your specific requirements. The length of the list determines the number of blocks, and the charsCount parameter specifies the number of characters in each specific block to meet the format.
 
+![My Image Alt Text](https://drive.google.com/file/d/1WSxz08RcPr2npL8JHHA417tYogHU_MzS/view?usp=sharing)
+
 ## Installation
 
 You can install this package by adding it to your `pubspec.yaml` file. Here's how:
