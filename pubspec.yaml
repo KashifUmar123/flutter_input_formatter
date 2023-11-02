@@ -1,0 +1,21 @@
+name: flutter_input_formatter
+description: A Flutter package that allows you to format a number with multiple customized blocks with your own theme.
+version: 0.0.1
+homepage: s
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
+ 
