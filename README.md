@@ -8,7 +8,7 @@ You can install this package by adding it to your `pubspec.yaml` file. Here's ho
 
 ```yaml
 dependencies:
-  your_package_name: ^1.0.0
+  flutter_input_formatter: ^0.0.4
 ```
 
 ## Example

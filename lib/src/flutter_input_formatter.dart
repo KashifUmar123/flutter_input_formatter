@@ -85,7 +85,7 @@ class _FlutterInputFormatterState extends State<FlutterInputFormatter> {
       margin: widget.margin,
       decoration: BoxDecoration(
         color: widget.backgroundColor,
-        borderRadius: BorderRadius.circular(12),
+        borderRadius: widget.borderRadius,
         border: Border.all(
           color: widget.borderColor ?? Colors.grey,
           width: 1,
