@@ -8,7 +8,7 @@ You can install this package by adding it to your `pubspec.yaml` file. Here's ho
 
 ```yaml
 dependencies:
-  flutter_input_formatter: ^0.0.4
+  flutter_input_formatter: ^0.0.5
 ```
 
 ## Example
@@ -178,6 +178,7 @@ class _TestFormatterScreenState extends State<TestFormatterScreen> {
       ),
       cursorColor: Colors.black,
       borderColor: Colors.grey,
+      borderRadius: BorderRadius.circular(12),
     );
   }
 }
